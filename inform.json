@@ -1,0 +1,20 @@
+[ 
+
+{"userProfile":"Neverneit Sober","last":"codevelp Interprises"},{
+  "name": "drive-server",
+  "version": "1.0.0",
+  "description": "Este es el gestionador principal del servidor que opera para poder facilitar el manejo y mantenimiento del servidor",
+  "type": "module",
+  "main": "DSr.js",
+  "scripts": {
+    "test": "node --version"
+  },
+  "keywords": [
+    "Neverneit",
+    "Sober"
+  ],
+  "author": "Neverneit Sober",
+  "license": "ISC"
+}
+
+ ]

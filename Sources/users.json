@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Neverneit",
+        "last-name": "Sober",
+        "age": 17,
+        "isSingle": true,
+        "tel": "8298886654"
+    },
+    {
+        "name": "Sara",
+        "last-name": "Colan",
+        "age": 7,
+        "isSingle": true,
+        "tel": "02377373737"
+    },
+    {
+        "name": "Valan",
+        "last-name": "deroc",
+        "age": 24,
+        "isSingle": false,
+        "tel": null
+    }
+]

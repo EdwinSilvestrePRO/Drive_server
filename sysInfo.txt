@@ -1,0 +1,107 @@
+
+Nombre de host:
+       CODEVOLP2
+
+Nombre del sistema operativo:
+       Microsoft Windows 10 Pro Education
+
+Versión del sistema operativo:
+       10.0.19045 N/D Compilación 19045
+
+Fabricante del sistema operativo:
+       Microsoft Corporation
+
+Configuración del sistema operativo:
+       Estación de trabajo independiente
+
+Tipo de compilación del sistema operativo:
+       Multiprocessor Free
+
+Propiedad de:
+       Edwin
+
+Organización registrada:
+
+
+Id. del producto:
+       00378-40000-00001-AA271
+
+
+Fecha de instalación original:
+       07-dic-19, 4:27:56 AM
+
+Tiempo de arranque del sistema:
+       26-may-23, 11:47:34 AM
+
+Fabricante del sistema:
+       Consung
+Modelo el sistema:
+       H714XX
+
+Tipo de sistema:
+       x64-based PC
+
+Procesador(es):
+       1 Procesadores instalados.
+       [01]: Intel64 Family 6 Model 122 Stepping 8 GenuineIntel ~1000 Mhz
+
+Versión del BIOS:
+       American Megatrends Inc. XL-BI-116-X133GRX620-GH50A-006-E, 15-jul-21
+
+Directorio de Windows:
+       C:\Windows
+
+Directorio de sistema:
+       C:\Windows\system32
+
+Dispositivo de arranque:
+       \Device\HarddiskVolume1
+
+Configuración regional del sistema:
+       es-mx;Espa¤ol (M‚xico)
+
+Idioma de entrada:
+       en-us;Ingl‚s (Estados Unidos)
+
+Zona horaria:
+       (UTC-04:00) Georgetown, La Paz, Manaos, San Juan
+
+Cantidad total de memoria física:
+       3,917 MB
+
+Memoria física disponible:
+       1,395 MB
+
+Memoria virtual: tama¤o máximo:
+       5,325 MB
+
+Memoria virtual: disponible:
+       2,425 MB
+
+Memoria virtual: en uso:
+       2,900 MB
+
+Ubicación(es) de archivo de paginación:
+       C:\pagefile.sys
+
+Dominio:
+       WRAP
+
+Servidor de inicio de sesión:
+       \\CODEVOLP2
+
+Revisión(es):
+       8 revisión(es) instaladas.
+       [01]: KB5020872
+       [02]: KB5012170
+       [03]: KB5015684
+       [04]: KB5025221
+       [05]: KB5014032
+       [06]: KB5016705
+       [07]: KB5020372
+       [08]: KB5023794
+Tarjeta(s) de red:
+       1 Tarjetas de interfaz de red instaladas.
+       [01]: Realtek 8821CE Wireless LAN 802.11ac PCI-E NIC
+Nombre de conexión:
+       Wi-Fi

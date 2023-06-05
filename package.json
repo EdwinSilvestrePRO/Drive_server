@@ -1,0 +1,18 @@
+{
+  "name": "drive-server",
+  "version": "1.0.0",
+  "description": "Este es el gestionador principal del servidor que opera para poder facilitar el manejo y mantenimiento del servidor",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdwinSilvestrePRO/Drive_sever.git"
+  },
+  "homepage": "https://github.com/EdwinSilvestrePRO/Drive_sever.git",
+  "main": "server.js",
+  "scripts": {
+    "test": "node --version"
+  },
+  "keywords": [],
+  "author": "Codevelp",
+  "license": "ISC"
+}

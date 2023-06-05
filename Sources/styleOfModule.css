@@ -1,0 +1,47 @@
+@import 'http://127.9.9.9/main/barStyles.css';
+html, body {
+	margin: 0px;
+	box-sizing: border-box;
+}
+body {
+	background-color: black;
+	color: white;
+}
+header {
+	border-top: 8px solid yellow;
+	border-right: none;
+	border-left: none;
+	border-bottom: none;
+	background-color: green;
+	margin: 0px;
+}
+header h1 {
+	margin: 0px;
+	text-align: center;
+}
+
+main {
+	margin: 0px;
+	background-image: url("http://127.9.9.9/images/emisores-de-eventos.webp");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-color: red;
+}
+main ul {
+	background-color: rgba(0, 0, 0, 0.7);
+	padding: 10px;
+	margin: 0px;
+	height: auto;
+	list-style-type: circle;
+	font: bold 25px monospace;
+}
+main ul li {
+	padding: 10px;
+}
+main ul li strong {
+	color: yellow;
+}
+main ul li strong.done {
+	color: green;
+}
