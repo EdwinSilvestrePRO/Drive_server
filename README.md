@@ -6,3 +6,5 @@ Este es un projecto personal para potenciar el desarrollo
 de un servidor http con los componentes necesarios para poder
 funcionar correctamente; este constituye un servisio de recursos
 binarios.
+
+> Para ser mas de lo que eres no hay que hacer conclusiones -- Neverneit Sober

@@ -16,119 +16,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="X-UA-Compatible" content="IE=Edge">
-		<style>
-			/*html::-webkit-scrollbar {
-				appearance: none;
-			}*/
-			html, body {
-				margin: 0px;
-				box-sizing: border-box;
-			}
-			body {
-				background-color: black;
-				color: white;
-			}
-			header {
-				background-image: url("/images/binary-digits.png");
-				margin: 0px;
-				padding: 0px;
-				height: auto;
-			}
-			header h1 {
-				padding: 20px;
-				margin: 0px;
-				color: white;
-				background-color: rgba(0, 0, 0, 0.5);
-				font: lighter 3em monospace;
-				text-align: center;
-				text-shadow: 2px 3px 8px white;
-			}
-			table {
-				width: 100%;
-			}
-			table, table caption, table tbody, table tr, table tr, table tr th, table tr td {
-				border: 2px solid purple;
-				border-collapse: collapse;
-			}
-			table caption {
-				background-color: black;
-				color: white;
-				padding: 2px;
-				font: bolder 1.4em normal;
-				text-align: left;
-			}
-			table caption i.count-elements {
-				color: cyan;
-			}
-			table tr th {
-				background-color: #444;
-				color: white;
-				text-align: center;
-				font: bold 2em monospace;
-			}
-			table tr td {
-				background-color: black;
-				color: yellow;
-				text-align: center;
-				font: bold 1.8em monospace;
-				padding:10px;
-			}
-			table tr td.warn {
-				background-color: yellow;
-				color: black;
-				text-align: left;
-				font-size: 3em;
-			}
-			table tr td.error {
-				background-color: red;
-				color: white;
-				text-align: left;
-				font-size: 3em;
-			}
-			table tr td a {
-				color: cyan;
-				transition: 333ms all linear;
-			}
-			table tr td a:hover {
-				background-color: black;
-				color: yellow;
-			}
-			div.load {
-				position: fixed;
-				z-index: 5;
-				bottom: 5px;
-				right: 5px;
-			}
-			div.load button {
-				font: bold 1.4em normal;
-				background-color: black;
-				color: white;
-				border-radius: 1em;
-				padding: 5px;
-				transition: 444ms all ease;
-				cursor: pointer;
-			}
-			div.load button:hover {
-				background-color: yellow;
-				color: black;
-			}
-			div.load button:active {
-				background-color: yellow;
-				color: black;
-			}
-			div.load button:disabled {
-				background-color: gray;
-				color: white;
-				cursor: default;
-			}
-			div.load button.load:disabled {
-				background-color: purple;
-				color: yellow;
-			}
-			div.load button.load.error:disabled {
-				background-color: red;
-			}
-		</style>
+		<link rel="stylesheet" href="/styleOfService.css" >
 	</head>
 	<body>
 		<header>
@@ -160,7 +48,7 @@
 
 			<template id="view-message">
 				<tr>
-					<td class="warn" colspan="4">Este directorio no contiene elementos.</td>
+					<td id="to-message" class="type" colspan="4">Este directorio no contiene elementos.</td>
 				</tr>
 			</template>
 
