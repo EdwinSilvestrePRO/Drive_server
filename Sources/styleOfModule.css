@@ -22,10 +22,10 @@ header h1 {
 
 main {
 	margin: 0px;
-	background-image: url("http://127.9.9.9/images/emisores-de-eventos.webp");
+	background-image: url('http://127.9.9.9/images/binary-digits.png');
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
-	background-attachment: scroll;
+	background-attachment: fixed;
 	background-color: red;
 }
 main ul {
